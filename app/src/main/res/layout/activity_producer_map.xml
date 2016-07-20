@@ -49,9 +49,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center_vertical|end"
             android:text="Start Tracking"
-            android:textColor="@color/tw__solid_white"
-            android:textStyle="bold"
-            android:background="@color/theme_blue"/>
+            android:textStyle="bold"/>
     </LinearLayout>
 
 </LinearLayout>

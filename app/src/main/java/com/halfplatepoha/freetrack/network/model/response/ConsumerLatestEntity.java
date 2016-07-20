@@ -1,6 +1,6 @@
 package com.halfplatepoha.freetrack.network.model.response;
 
-import com.angelhack.freetrack.network.request.ValueObject;
+import com.halfplatepoha.freetrack.network.request.ValueObject;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
 import java.io.Serializable;

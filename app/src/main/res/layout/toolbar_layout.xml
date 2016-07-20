@@ -8,15 +8,10 @@
         android:layout_width="match_parent"
         android:layout_height="?attr/actionBarSize"
         android:background="?attr/colorPrimary"
-        android:titleTextColor="@color/color_dark_grey"
         android:minHeight="?attr/actionBarSize"
-        app:subtitleTextAppearance="@style/styleToolbarSubtitle"
-        app:layout_scrollFlags="scroll|enterAlways"
-        app:popupTheme="@style/toolbarStyle"
-        app:titleTextAppearance="@style/styleToolbarTitle"/>
+        app:layout_scrollFlags="scroll|enterAlways"/>
     <View
         android:layout_width="match_parent"
-        android:background="@color/color_lablel_divider"
         android:layout_height="1dp"></View>
 
 </LinearLayout>
