@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "687115238045",
+    "firebase_url": "https://freetrack-39b44.firebaseio.com",
+    "project_id": "freetrack-39b44",
+    "storage_bucket": "freetrack-39b44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687115238045:android:37ff2bb7eac3723e",
+        "android_client_info": {
+          "package_name": "com.halfplatepoha.freetrack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687115238045-0hit0d5j0jbqfms948i5q7a3v69cecag.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.halfplatepoha.freetrack",
+            "certificate_hash": "0C7B583207B583C50122D73BB6B1D7FC6247A6FE"
+          }
+        },
+        {
+          "client_id": "687115238045-h1gnfjjeedhqdeei1lugftt57a9s2a0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRxl1vmKDps3c2C36Jr2npDXiYRI-CsAQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687115238045-h1gnfjjeedhqdeei1lugftt57a9s2a0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

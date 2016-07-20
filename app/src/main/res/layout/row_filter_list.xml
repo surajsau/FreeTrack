@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="?android:attr/selectableItemBackground"
+    android:gravity="center_vertical"
+    android:paddingBottom="@dimen/ten"
+    android:paddingLeft="@dimen/ten"
+    android:paddingStart="@dimen/ten"
+    android:paddingTop="@dimen/ten">
+
+    <ImageView
+        android:id="@+id/left_icon_image_view"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="@dimen/ten"
+        android:src="@drawable/material_ic_clock" />
+
+    <ImageView
+        android:id="@+id/right_icon_image_view"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:paddingLeft="@dimen/ten"
+        android:paddingRight="@dimen/ten"
+        android:src="@drawable/material_ic_uparrow" />
+
+    <TextView
+        android:id="@+id/keyword_sugg_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toEndOf="@id/left_icon_image_view"
+        android:layout_toLeftOf="@+id/right_icon_image_view"
+        android:layout_toRightOf="@id/left_icon_image_view"
+        android:gravity="center_vertical"
+        android:text="Iphone 6"
+        android:textSize="11sp"
+        android:layout_centerVertical="true"
+        />
+
+
+</RelativeLayout>
+
